@@ -8,13 +8,13 @@ Wordpress
 ACF PRO (https://www.advancedcustomfields.com/pro/)
 
 ## Vstupy v administrace pro produkty
-Typ zobrazení: horizontální / vertikální
+Typ zobrazení: horizontální / vertikální\
 Seznam produktů zadaných dle P/N
 
 ## Vstupy v administraci pro kategorii
-Název
-Krátký popis
-Odkaz
+Název\
+Krátký popis\
+Odkaz\
 Obrázek (možnost změnit pozadí bloku)
 
 ## Příklad vizuálu
